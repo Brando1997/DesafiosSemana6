@@ -1,0 +1,16 @@
+C:\Users\alvar\OneDrive\Escritorio\Desafio Promedio\bin\Debug\net5.0\Desafio Promedio.exe
+C:\Users\alvar\OneDrive\Escritorio\Desafio Promedio\bin\Debug\net5.0\Desafio Promedio.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Desafio Promedio\bin\Debug\net5.0\Desafio Promedio.runtimeconfig.json
+C:\Users\alvar\OneDrive\Escritorio\Desafio Promedio\bin\Debug\net5.0\Desafio Promedio.runtimeconfig.dev.json
+C:\Users\alvar\OneDrive\Escritorio\Desafio Promedio\bin\Debug\net5.0\Desafio Promedio.dll
+C:\Users\alvar\OneDrive\Escritorio\Desafio Promedio\bin\Debug\net5.0\Desafio Promedio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Desafio Promedio\obj\Debug\net5.0\Desafio Promedio.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Desafio Promedio\obj\Debug\net5.0\Desafio Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Desafio Promedio\obj\Debug\net5.0\Desafio Promedio.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Desafio Promedio\obj\Debug\net5.0\Desafio Promedio.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Desafio Promedio\obj\Debug\net5.0\Desafio Promedio.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Desafio Promedio\obj\Debug\net5.0\Desafio Promedio.dll
+C:\Users\alvar\OneDrive\Escritorio\Desafio Promedio\obj\Debug\net5.0\refint\Desafio Promedio.dll
+C:\Users\alvar\OneDrive\Escritorio\Desafio Promedio\obj\Debug\net5.0\Desafio Promedio.pdb
+C:\Users\alvar\OneDrive\Escritorio\Desafio Promedio\obj\Debug\net5.0\Desafio Promedio.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Escritorio\Desafio Promedio\obj\Debug\net5.0\ref\Desafio Promedio.dll

@@ -1,0 +1,22 @@
+1. Definir una clase Caja:
+◘ La clase Caja contendrá propiedades para representar las dimensiones de la caja (ancho, largo y alto).
+
+◘ Debería tener un método para calcular el volumen de la caja.
+
+2. Crear un bucle para solicitar las dimensiones de múltiples cajas:
+◘ Utiliza un bucle (por ejemplo, for o while) para solicitar al usuario las dimensiones de cada caja (ancho, largo y alto).
+
+◘ Crea instancias de la clase Caja para cada conjunto de dimensiones proporcionado por el usuario.
+
+3. Calcular el total de volumen de todas las cajas:
+◘ Utiliza otro bucle para iterar sobre todas las instancias de Caja.
+
+◘ Suma los volúmenes de cada caja para obtener el total de volumen.
+
+4. Calcular el volumen promedio:
+◘ Divide el total de volumen por el número de cajas para obtener el volumen promedio.
+
+5. Mostrar los resultados:
+◘ Muestra el total de volumen de todas las cajas.
+
+◘ Muestra el volumen promedio de las cajas.
